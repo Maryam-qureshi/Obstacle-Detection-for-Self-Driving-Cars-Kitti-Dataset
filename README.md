@@ -15,6 +15,8 @@ Every year, a significant number of road accidents occur due to human error, lim
 The motivation behind the project stems from the need to reduce road fatalities and improve decision-making during challenging driving conditions such as fog, rain, or night-time travel.
 
 ---
+## Interface
+https://github.com/user-attachments/assets/bb6cb9a1-fd28-403e-9497-b8b534a65b10
 
 ## 🎯 Goals and Objectives
 
